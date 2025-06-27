@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvix_trading=self.webpackChunkvix_trading||[]).push([[742],{7093:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

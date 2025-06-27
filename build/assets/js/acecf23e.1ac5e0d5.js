@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvix_trading=self.webpackChunkvix_trading||[]).push([[903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/VIX_trading_strategy/blog","blogTitle":"Blog","authorsListPath":"/VIX_trading_strategy/blog/authors"}')}}]);

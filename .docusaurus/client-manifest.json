@@ -1,0 +1,381 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "42": [
+      42
+    ],
+    "465": [
+      61,
+      401,
+      486,
+      867,
+      869,
+      465
+    ],
+    "486": [
+      212,
+      465,
+      867,
+      869,
+      486
+    ],
+    "17896441": [
+      465,
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "14aaaed0": [
+      196
+    ],
+    "14eb3368": [
+      869,
+      969
+    ],
+    "18c41134": [
+      262
+    ],
+    "1f391b9e": [
+      465,
+      869,
+      61
+    ],
+    "33fc5bb8": [
+      465,
+      486,
+      869,
+      867
+    ],
+    "36994c47": [
+      858
+    ],
+    "393be207": [
+      134
+    ],
+    "5e95c892": [
+      647
+    ],
+    "621db11d": [
+      486,
+      869,
+      212
+    ],
+    "814f3328": [
+      472
+    ],
+    "8e6f12f7": [
+      506
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "acecf23e": [
+      903
+    ],
+    "b58a06ee": [
+      653
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "d8dbbbc6": [
+      253
+    ],
+    "f82a6653": [
+      94
+    ],
+    "fcbea6c6": [
+      303
+    ],
+    "styles": [
+      48,
+      61,
+      212,
+      354,
+      401,
+      465,
+      486,
+      634,
+      792,
+      867,
+      969,
+      869
+    ]
+  },
+  "assets": {
+    "42": {
+      "js": [
+        {
+          "file": "assets/js/42.8288cf43.js",
+          "hash": "0492792f2ca29087",
+          "publicPath": "/VIX_trading_strategy/assets/js/42.8288cf43.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.2f3a5217.js",
+          "hash": "da59471b30004fef",
+          "publicPath": "/VIX_trading_strategy/assets/js/a94703ab.2f3a5217.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.af0ba896.js",
+          "hash": "664669dc83b8f889",
+          "publicPath": "/VIX_trading_strategy/assets/js/1f391b9e.af0ba896.js"
+        }
+      ]
+    },
+    "94": {
+      "js": [
+        {
+          "file": "assets/js/f82a6653.b9530219.js",
+          "hash": "26a3ce5a8152bd1f",
+          "publicPath": "/VIX_trading_strategy/assets/js/f82a6653.b9530219.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.188b311a.js",
+          "hash": "7690656c6186b661",
+          "publicPath": "/VIX_trading_strategy/assets/js/a7bd4aaa.188b311a.js"
+        }
+      ]
+    },
+    "134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.cb25c860.js",
+          "hash": "4a12b70ab5ffb79f",
+          "publicPath": "/VIX_trading_strategy/assets/js/393be207.cb25c860.js"
+        }
+      ]
+    },
+    "196": {
+      "js": [
+        {
+          "file": "assets/js/14aaaed0.45e2278f.js",
+          "hash": "d39dca7b07416565",
+          "publicPath": "/VIX_trading_strategy/assets/js/14aaaed0.45e2278f.js"
+        }
+      ]
+    },
+    "212": {
+      "js": [
+        {
+          "file": "assets/js/621db11d.c85890dd.js",
+          "hash": "2b97d1c5fc8ba943",
+          "publicPath": "/VIX_trading_strategy/assets/js/621db11d.c85890dd.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.a12b4510.js",
+          "hash": "e1a3a6327aeaf7cf",
+          "publicPath": "/VIX_trading_strategy/assets/js/a7456010.a12b4510.js"
+        }
+      ]
+    },
+    "253": {
+      "js": [
+        {
+          "file": "assets/js/d8dbbbc6.81be1d30.js",
+          "hash": "f4507b8d1961b90b",
+          "publicPath": "/VIX_trading_strategy/assets/js/d8dbbbc6.81be1d30.js"
+        }
+      ]
+    },
+    "262": {
+      "js": [
+        {
+          "file": "assets/js/18c41134.8d5b4df9.js",
+          "hash": "7a681524a61961db",
+          "publicPath": "/VIX_trading_strategy/assets/js/18c41134.8d5b4df9.js"
+        }
+      ]
+    },
+    "303": {
+      "js": [
+        {
+          "file": "assets/js/fcbea6c6.7fd190b9.js",
+          "hash": "350bb3b84007c920",
+          "publicPath": "/VIX_trading_strategy/assets/js/fcbea6c6.7fd190b9.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.c6bd5b76.js",
+          "hash": "ffb27e39d2407ac2",
+          "publicPath": "/VIX_trading_strategy/assets/js/runtime~main.c6bd5b76.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.6fb1ba52.js",
+          "hash": "a1ed913329fcf2a1",
+          "publicPath": "/VIX_trading_strategy/assets/js/17896441.6fb1ba52.js"
+        }
+      ]
+    },
+    "465": {
+      "js": [
+        {
+          "file": "assets/js/465.0b3a75ce.js",
+          "hash": "8159835e6931bbfc",
+          "publicPath": "/VIX_trading_strategy/assets/js/465.0b3a75ce.js"
+        }
+      ]
+    },
+    "472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.b83bf250.js",
+          "hash": "1cb3b7fc233ede99",
+          "publicPath": "/VIX_trading_strategy/assets/js/814f3328.b83bf250.js"
+        }
+      ]
+    },
+    "486": {
+      "js": [
+        {
+          "file": "assets/js/486.5e36b4f4.js",
+          "hash": "b102c7878e3445b2",
+          "publicPath": "/VIX_trading_strategy/assets/js/486.5e36b4f4.js"
+        }
+      ]
+    },
+    "506": {
+      "js": [
+        {
+          "file": "assets/js/8e6f12f7.57164d01.js",
+          "hash": "72ea7b5af55be1e3",
+          "publicPath": "/VIX_trading_strategy/assets/js/8e6f12f7.57164d01.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.01463bc5.js",
+          "hash": "37d8825cde8b034d",
+          "publicPath": "/VIX_trading_strategy/assets/js/c4f5d8e4.01463bc5.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.3090faca.js",
+          "hash": "ce6943ead93624fb",
+          "publicPath": "/VIX_trading_strategy/assets/js/5e95c892.3090faca.js"
+        }
+      ]
+    },
+    "653": {
+      "js": [
+        {
+          "file": "assets/js/b58a06ee.b6880999.js",
+          "hash": "219bf1409c08d745",
+          "publicPath": "/VIX_trading_strategy/assets/js/b58a06ee.b6880999.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.5c86209a.js",
+          "hash": "9b140eada2c1cef9",
+          "publicPath": "/VIX_trading_strategy/assets/js/aba21aa0.5c86209a.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.7d506e00.js",
+          "hash": "f9c3fdfc23edc338",
+          "publicPath": "/VIX_trading_strategy/assets/js/main.7d506e00.js"
+        }
+      ]
+    },
+    "858": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.e54b3119.js",
+          "hash": "7bbb17503d54b684",
+          "publicPath": "/VIX_trading_strategy/assets/js/36994c47.e54b3119.js"
+        }
+      ]
+    },
+    "867": {
+      "js": [
+        {
+          "file": "assets/js/33fc5bb8.e7afb27e.js",
+          "hash": "7e6b234eeb500499",
+          "publicPath": "/VIX_trading_strategy/assets/js/33fc5bb8.e7afb27e.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.3a40c8d1.css",
+          "hash": "694601a82fbca923",
+          "publicPath": "/VIX_trading_strategy/assets/css/styles.3a40c8d1.css"
+        }
+      ]
+    },
+    "903": {
+      "js": [
+        {
+          "file": "assets/js/acecf23e.1ac5e0d5.js",
+          "hash": "17a73a3e99aa8c87",
+          "publicPath": "/VIX_trading_strategy/assets/js/acecf23e.1ac5e0d5.js"
+        }
+      ]
+    },
+    "969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.d9ad9107.js",
+          "hash": "3bfe95d314c0954a",
+          "publicPath": "/VIX_trading_strategy/assets/js/14eb3368.d9ad9107.js"
+        }
+      ]
+    }
+  }
+}
